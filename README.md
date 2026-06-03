@@ -2,7 +2,7 @@
 
 ## Intern Details
 
-**Name:** Archana A D//
+**Name:** Archana A D
 **Domain:** Python Developer Internship
 **Organization:** Alfido Tech
 
